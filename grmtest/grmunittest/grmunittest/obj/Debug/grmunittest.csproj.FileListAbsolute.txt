@@ -1,0 +1,15 @@
+c:\grmtest\grmunittest\grmunittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\grmtest\grmunittest\grmunittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\grmtest\grmunittest\grmunittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\grmtest\grmunittest\grmunittest\bin\Debug\grmunittest.dll
+c:\grmtest\grmunittest\grmunittest\bin\Debug\grmunittest.pdb
+c:\grmtest\grmunittest\grmunittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\grmtest\grmunittest\grmunittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\grmtest\grmunittest\grmunittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\grmtest\grmunittest\grmunittest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\grmtest\grmunittest\grmunittest\obj\Debug\grmunittest.csprojResolveAssemblyReference.cache
+c:\grmtest\grmunittest\grmunittest\obj\Debug\grmunittest.csproj.CoreCompileInputs.cache
+c:\grmtest\grmunittest\grmunittest\obj\Debug\grmunittest.dll
+c:\grmtest\grmunittest\grmunittest\obj\Debug\grmunittest.pdb
+c:\grmtest\grmunittest\grmunittest\bin\Debug\grm.dll
+c:\grmtest\grmunittest\grmunittest\bin\Debug\grm.pdb

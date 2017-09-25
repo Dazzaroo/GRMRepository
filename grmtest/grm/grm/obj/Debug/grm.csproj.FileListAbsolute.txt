@@ -1,0 +1,6 @@
+c:\grmtest\grm\grm\obj\Debug\grm.csproj.CoreCompileInputs.cache
+c:\grmtest\grm\grm\bin\Debug\grm.dll
+c:\grmtest\grm\grm\bin\Debug\grm.pdb
+c:\grmtest\grm\grm\obj\Debug\grm.dll
+c:\grmtest\grm\grm\obj\Debug\grm.pdb
+c:\grmtest\grm\grm\obj\Debug\grm.csprojResolveAssemblyReference.cache

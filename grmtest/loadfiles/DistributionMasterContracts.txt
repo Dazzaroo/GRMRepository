@@ -1,0 +1,4 @@
+Distribution Partner Contracts
+Partner|Usage
+ITunes|digital download
+YouTube|streaming
